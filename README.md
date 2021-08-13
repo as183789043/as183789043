@@ -1,4 +1,5 @@
-![avatar](https://myppt.cc/MMPaUb)
+![avatar]![pexels-photo-326055](https://user-images.githubusercontent.com/56618553/129415799-ede30ad6-3bf8-4aba-9d04-0ceb96ee17f1.jpeg)
+
 <h1 align="center">Hi 👋, I'm Hung-Chi,Hsu</h1>
 <h3 align="center">A beginner in programming who wants to become a data scientist</h3>
 

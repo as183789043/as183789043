@@ -19,7 +19,7 @@
 
 - Cloud          : ![Static Badge](https://img.shields.io/badge/AWS-%23232F3E?logo=amazonaws) ![Static Badge](https://img.shields.io/badge/Azure-%230078D4?logo=microsoftazure) ![Static Badge](https://img.shields.io/badge/GCP-Darkblue?logo=googlecloud) ![Static Badge](https://img.shields.io/badge/Wasabi-darkgreen?logo=wasabi)
   
-- System         : ![Static Badge](https://img.shields.io/badge/windows-%230078D4?logo=windows) ![Static Badge](https://img.shields.io/badge/centos-%23262577?logo=centos) ![Static Badge](https://img.shields.io/badge/RHEL9-%23EE0000?logo=redhat) ![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?logo=redhat&logoColor=Ubuntu) ![Static Badge](https://img.shields.io/badge/lubuntu-%230068C8?logo=lubuntu) ![Static Badge](https://img.shields.io/badge/veeam-darkgreen?style=flat&logo=veeam&logoColor=veeam)
+- System         : ![Static Badge](https://img.shields.io/badge/windows-%230078D4?logo=windows) ![Static Badge](https://img.shields.io/badge/centos-%23262577?logo=centos) ![Static Badge](https://img.shields.io/badge/RHEL9-%23EE0000?logo=redhat) ![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?logo=redhat&logoColor=Ubuntu) ![Static Badge](https://img.shields.io/badge/lubuntu-%230068C8?logo=lubuntu) ![Static Badge](https://img.shields.io/badge/Veeam-darkgreen?style=flat&logo=veeam&logoColor=veeam)
 
   
 - IoT            : ![Static Badge](https://img.shields.io/badge/HomeAssistant-white?logo=homeassistant&logoColor=HomeAssistant) ![Static Badge](https://img.shields.io/badge/EspHome-black?logo=esphome&logoColor=esphome) ![Static Badge](https://img.shields.io/badge/Arduino-%2300878F?logo=arduino&logoColor=arduino)

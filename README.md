@@ -1,10 +1,12 @@
 
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61F754&background=80FF9C00&center=true&vCenter=true&random=true&width=550&lines=I+am+Rick+Hsu%EF%BC%8CWelcome+to+my+github;%E6%89%80%E8%AC%82%E6%B4%BB%E8%91%97%E7%9A%84%E4%BA%BA%EF%BC%8C%E5%B0%B1%E6%98%AF%E4%B8%8D%E6%96%B7%E6%8C%91%E6%88%B0%E7%9A%84%E4%BA%BA%EF%BC%8C%E4%B8%8D%E6%96%B7%E6%94%80%E7%99%BB%E5%91%BD%E9%81%8B%E5%B3%BB%E5%B3%B0%E7%9A%84%E4%BA%BA" alt="Typing SVG" /></a>
-</h1> 
+</h1>
 
 
-## Skill Stack
+
+ 
+## Tech  Stack
 - Front-end      : ![Static Badge](https://img.shields.io/badge/Html5-white?style=flat&logo=html5) ![Static Badge](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3) ![Static Badge](https://img.shields.io/badge/JavaScript-orange?style=flat&logo=JavaScript)  
 
 - Back-end       : ![Static Badge](https://img.shields.io/badge/Python-lightblue?style=flat&logo=Python) ![Static Badge](https://img.shields.io/badge/Node.js-purple?style=flat&logo=Node.js) ![Static Badge](https://img.shields.io/badge/GO-lightbrown?style=flat&logo=GO&color=blue)

@@ -39,7 +39,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=as183789043&show_icons=true&theme=calm&hide_border=true&card_width=320"/>
 </a>
 <a href="https://github.com/as183789043/convoychat">
-   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=as183789043&theme=calm&hide_border=true&card_width=320" />
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=as183789043&theme=calm&hide_border=true&card_width=360" />
 </a>
 
 

@@ -35,10 +35,10 @@
   <br/>
 ## Coding Time
 
-<a href="https://github.com/as183789043/github-readme-stats">
+<a href="https://github.com/as183789043/as183789043">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=as183789043&show_icons=true&theme=calm&hide_border=true&card_width=320"/>
 </a>
-<a href="https://github.com/as183789043/convoychat">
+<a href="https://github.com/as183789043/as183789043">
    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=as183789043&theme=calm&hide_border=true&card_width=360" />
 </a>
 
@@ -51,4 +51,4 @@
 
 
 
-[![Rick's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=as183789043&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rick's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=as183789043&theme=xcode)]

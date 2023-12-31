@@ -51,4 +51,4 @@
 
 
 
-[![Rick's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=as183789043&theme=xcode)]
+![Rick's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=as183789043&theme=xcode)

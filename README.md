@@ -4,7 +4,6 @@
 </h1>
 
 
-
  
 ## Tech  Stack
 - Front-end      : ![Static Badge](https://img.shields.io/badge/Html5-white?style=flat&logo=html5) ![Static Badge](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3) ![Static Badge](https://img.shields.io/badge/JavaScript-orange?style=flat&logo=JavaScript)  
@@ -44,6 +43,7 @@
    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=as183789043&theme=calm&hide_border=true&card_width=360" />
 </a>
 
+ <img align='Right' src="https://profile-counter.glitch.me/as183789043/count.svg" width="200">
 
 
 | Badge | Code Language Stats |

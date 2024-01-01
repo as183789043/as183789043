@@ -43,7 +43,7 @@
    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=as183789043&theme=calm&hide_border=true&card_width=360" />
 </a>
 
- <img align='Right' src="https://profile-counter.glitch.me/as183789043/count.svg" width="200">
+
 
 
 | Badge | Code Language Stats |
@@ -54,3 +54,5 @@
 
 
 ![Rick's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=as183789043&theme=xcode)
+
+<img align='Right' src="https://profile-counter.glitch.me/as183789043/count.svg" width="200">

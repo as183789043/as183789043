@@ -10,7 +10,8 @@
 
 - Back-end       : ![Static Badge](https://img.shields.io/badge/Python-lightblue?style=flat&logo=Python) ![Static Badge](https://img.shields.io/badge/Node.js-purple?style=flat&logo=Node.js) ![Static Badge](https://img.shields.io/badge/GO-lightbrown?style=flat&logo=GO&color=blue)
   
-- Web-Framewwork  : ![Static Badge](https://img.shields.io/badge/Flask-black?style=flat&logo=Flask) ![Static Badge](https://img.shields.io/badge/Django-gray?style=flat&logo=Django&color=blue) ![Static Badge](https://img.shields.io/badge/Py4Web-red?style=flat&logo=PY4WEB)
+- Web-Framewwork  : ![Static Badge](https://img.shields.io/badge/Flask-black?style=flat&logo=Flask) ![Static Badge](https://img.shields.io/badge/Django-gray?style=flat&logo=Django&color=blue) ![Static Badge](https://img.shields.io/badge/Py4Web-red?style=flat&logo=PY4WEB) ![Static Badge](https://img.shields.io/badge/streamlit-white?style=flat&logo=streamlit&logoColor=%23FF4B4B)
+
   
 - Database       : ![Static Badge](https://img.shields.io/badge/Prometheus-lightred?style=flat&logo=Prometheus) ![Static Badge](https://img.shields.io/badge/InfluxDB-darkblue?style=flat&logo=InfluxDB) ![Static Badge](https://img.shields.io/badge/MongoDB-darkgreen?style=flat&logo=MongoDB) ![Static Badge](https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL) ![Static Badge](https://img.shields.io/badge/Redis-Red?style=flat&logo=Redis) ![Static Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-brown?style=flat&logo=Microsoft%20SQL%20Server) ![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?style=flat&logo=sqlite&logoColor=sqlite)
   

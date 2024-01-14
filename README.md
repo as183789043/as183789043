@@ -16,7 +16,9 @@
   
 - DeveOps        : ![Static Badge](https://img.shields.io/badge/Docker-dark?style=flat&logo=Docker) ![Static Badge](https://img.shields.io/badge/Kubernetes-darkblue?style=flat&logo=Kubernetes) ![Static Badge](https://img.shields.io/badge/OCP-%23EE0000?style=flat&logo=redhatopenshift&logoColor=redhatopenshift)
  ![Static Badge](https://img.shields.io/badge/Jmeter-black?logo=apachejmeter) ![Static Badge](https://img.shields.io/badge/Jenkins-gray?style=flat&logo=Jenkins) ![Static Badge](https://img.shields.io/badge/Vagrant-darkgreen?style=flat&logo=Vagrant) ![Static Badge](https://img.shields.io/badge/Blazemeter-red?style=flat&logo=Blazemeter)  ![Static Badge](https://img.shields.io/badge/github-%23181717?style=flat&logo=github&logoColor=github)
-![Static Badge](https://img.shields.io/badge/gitlab-%23FC6D26?style=flat&logo=gitlab&logoColor=gitlab)
+![Static Badge](https://img.shields.io/badge/gitlab-%23FC6D26?style=flat&logo=gitlab&logoColor=gitlab) ![Static Badge](https://img.shields.io/badge/Ansible-red?style=flat&logo=Ansible&logoColor=black)
+
+
 
 - Cloud          : ![Static Badge](https://img.shields.io/badge/AWS-%23232F3E?logo=amazonaws) ![Static Badge](https://img.shields.io/badge/Azure-%230078D4?logo=microsoftazure) ![Static Badge](https://img.shields.io/badge/GCP-Darkblue?logo=googlecloud) ![Static Badge](https://img.shields.io/badge/Wasabi-darkgreen?logo=wasabi)
   

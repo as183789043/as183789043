@@ -6,16 +6,20 @@
 <img align="center"  src="https://github.com/as183789043/as183789043/assets/56618553/03cd4ac2-773e-4343-a6c8-3d4675ce7705"/>
 
 ## Tech  Stack
-- Front-end      : ![Static Badge](https://img.shields.io/badge/HTML5-white?style=flat&logo=html5) ![Static Badge](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3) ![Static Badge](https://img.shields.io/badge/JavaScript-orange?style=flat&logo=JavaScript)  
+- Front-end      : ![Static Badge](https://img.shields.io/badge/HTML5-white?style=flat&logo=html5) ![Static Badge](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3) ![Static Badge](https://img.shields.io/badge/JavaScript-orange?style=flat&logo=JavaScript)  ![Static Badge](https://img.shields.io/badge/axios-%235A29E4?style=flat&logo=Axios)
 
 - Back-end       : ![Static Badge](https://img.shields.io/badge/Python-lightblue?style=flat&logo=Python) ![Static Badge](https://img.shields.io/badge/Node.js-purple?style=flat&logo=Node.js) ![Static Badge](https://img.shields.io/badge/GO-lightbrown?style=flat&logo=GO&color=blue)
   
-- Web-Framewwork  : ![Static Badge](https://img.shields.io/badge/Flask-black?style=flat&logo=Flask) ![Static Badge](https://img.shields.io/badge/Django-gray?style=flat&logo=Django&color=blue) ![Static Badge](https://img.shields.io/badge/Py4Web-red?style=flat&logo=PY4WEB) ![Static Badge](https://img.shields.io/badge/streamlit-white?style=flat&logo=streamlit&logoColor=%23FF4B4B)
+- Web-Framewwork  : ![Static Badge](https://img.shields.io/badge/Flask-black?style=flat&logo=Flask) ![Static Badge](https://img.shields.io/badge/Django-gray?style=flat&logo=Django&color=blue) ![Static Badge](https://img.shields.io/badge/Py4Web-red?style=flat&logo=PY4WEB) ![Static Badge](https://img.shields.io/badge/streamlit-white?style=flat&logo=streamlit&logoColor=%23FF4B4B) ![Static Badge](https://img.shields.io/badge/React.js-blue?style=flat-flat&logo=React) 
+
+
 
   
-- Database       : ![Static Badge](https://img.shields.io/badge/Prometheus-lightred?style=flat&logo=Prometheus) ![Static Badge](https://img.shields.io/badge/InfluxDB-darkblue?style=flat&logo=InfluxDB) ![Static Badge](https://img.shields.io/badge/MongoDB-darkgreen?style=flat&logo=MongoDB) ![Static Badge](https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL) ![Static Badge](https://img.shields.io/badge/Redis-Red?style=flat&logo=Redis) ![Static Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-brown?style=flat&logo=Microsoft%20SQL%20Server) ![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?style=flat&logo=sqlite&logoColor=sqlite)
+- Database       : ![Static Badge](https://img.shields.io/badge/Prometheus-lightred?style=flat&logo=Prometheus) ![Static Badge](https://img.shields.io/badge/InfluxDB-darkblue?style=flat&logo=InfluxDB) ![Static Badge](https://img.shields.io/badge/MongoDB-darkgreen?style=flat&logo=MongoDB) ![Static Badge](https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL) ![Static Badge](https://img.shields.io/badge/Redis-Red?style=flat&logo=Redis) ![Static Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-brown?style=flat&logo=Microsoft%20SQL%20Server) ![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?style=flat&logo=sqlite&logoColor=sqlite) ![Static Badge](https://img.shields.io/badge/PostgreaaSQL-white?style=flat&logo=postgresql)
+
   
-- DeveOps        : ![Static Badge](https://img.shields.io/badge/Docker-dark?style=flat&logo=Docker) ![Static Badge](https://img.shields.io/badge/Kubernetes-darkblue?style=flat&logo=Kubernetes) ![Static Badge](https://img.shields.io/badge/OCP-%23EE0000?style=flat&logo=redhatopenshift&logoColor=redhatopenshift)
+- DeveOps        : ![Static Badge](https://img.shields.io/badge/Docker-dark?style=flat&logo=Docker) ![Static Badge](https://img.shields.io/badge/podman-%23892CA0?style=flat&logo=podman)
+ ![Static Badge](https://img.shields.io/badge/Kubernetes-darkblue?style=flat&logo=Kubernetes) ![Static Badge](https://img.shields.io/badge/OCP-%23EE0000?style=flat&logo=redhatopenshift&logoColor=redhatopenshift)
  ![Static Badge](https://img.shields.io/badge/Jmeter-black?logo=apachejmeter) ![Static Badge](https://img.shields.io/badge/Jenkins-gray?style=flat&logo=Jenkins) ![Static Badge](https://img.shields.io/badge/Vagrant-darkgreen?style=flat&logo=Vagrant) ![Static Badge](https://img.shields.io/badge/Blazemeter-red?style=flat&logo=Blazemeter)  ![Static Badge](https://img.shields.io/badge/github-%23181717?style=flat&logo=github&logoColor=github)
 ![Static Badge](https://img.shields.io/badge/gitlab-%23FC6D26?style=flat&logo=gitlab&logoColor=gitlab) ![Static Badge](https://img.shields.io/badge/Ansible-red?style=flat&logo=Ansible&logoColor=black)
 
@@ -23,7 +27,7 @@
 
 - Cloud          : ![Static Badge](https://img.shields.io/badge/AWS-%23232F3E?logo=amazonaws) ![Static Badge](https://img.shields.io/badge/Azure-%230078D4?logo=microsoftazure) ![Static Badge](https://img.shields.io/badge/GCP-Darkblue?logo=googlecloud) ![Static Badge](https://img.shields.io/badge/Wasabi-darkgreen?logo=wasabi)
   
-- System         : ![Static Badge](https://img.shields.io/badge/Windows-%230078D4?logo=windows) ![Static Badge](https://img.shields.io/badge/Centos-%23262577?logo=centos) ![Static Badge](https://img.shields.io/badge/RHEL9-%23EE0000?logo=redhat) ![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?logo=redhat&logoColor=Ubuntu) ![Static Badge](https://img.shields.io/badge/lubuntu-%230068C8?logo=Lubuntu) ![Static Badge](https://img.shields.io/badge/Veeam-darkgreen?style=flat&logo=veeam&logoColor=veeam)
+- System         : ![Static Badge](https://img.shields.io/badge/Windows-%230078D4?logo=windows) ![Static Badge](https://img.shields.io/badge/Centos-%23262577?logo=centos) ![Static Badge](https://img.shields.io/badge/RHEL9-%23EE0000?logo=redhat) ![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?logo=redhat&logoColor=Ubuntu) ![Static Badge](https://img.shields.io/badge/lubuntu-%230068C8?logo=Lubuntu) 
 
   
 - IoT            : ![Static Badge](https://img.shields.io/badge/HomeAssistant-white?logo=homeassistant&logoColor=HomeAssistant) ![Static Badge](https://img.shields.io/badge/EspHome-black?logo=esphome&logoColor=esphome) ![Static Badge](https://img.shields.io/badge/Arduino-%2300878F?logo=arduino&logoColor=arduino)
@@ -34,6 +38,12 @@
 - Firewall : ![Static Badge](https://img.shields.io/badge/Pfsense-%23212121?style=flat&logo=pfsense&logoColor=pfsense)
   
 - Visiualize : ![Static Badge](https://img.shields.io/badge/Grafana-%23oange?style=flat&logo=grafana&logoColor=grafana) ![Static Badge](https://img.shields.io/badge/Tableau-black?style=flat&logo=tableau&logoColor=tableau) ![Static Badge](https://img.shields.io/badge/PowerBI-white?style=flat&logo=powerbi&logoColor=powerbi) ![Static Badge](https://img.shields.io/badge/Qlik-%23009848?style=flat&logo=qlik&logoColor=qlik) ![Static Badge](https://img.shields.io/badge/Elastic-elasticsearch?style=flat&logo=elastic&logoColor=elastic) ![Static Badge](https://img.shields.io/badge/logstash-%23005571?style=flat&logo=logstash&logoColor=logstash) ![Static Badge](https://img.shields.io/badge/kibana-%23005571?style=flat&logo=kibana&logoColor=kibana) ![Static Badge](https://img.shields.io/badge/Splunk-%23000000?style=flat&logo=splunk&logoColor=splunk) ![Static Badge](https://img.shields.io/badge/DataStudio-darkblue?style=flat&logo=googledatastudio&logoColor=googledatastudio)
+
+- tools : ![Static Badge](https://img.shields.io/badge/Veeam-darkgreen?style=flat&logo=veeam&logoColor=veeam)  ![Static Badge](https://img.shields.io/badge/Nginx-%23009639?style=flat&logo=Nginx) ![Static Badge](https://img.shields.io/badge/hexo-%23whitegreen?style=flat&logo=Hexo) ![Static Badge](https://img.shields.io/badge/Hugo-%23pink?style=flat&logo=hugo)  ![Static Badge](https://img.shields.io/badge/Uptimekuma-black?style=flat&logo=Uptimekuma) ![Static Badge](https://img.shields.io/badge/Synology-gray?style=flat&logo=synology)
+
+
+
+
 
 
   <br/>

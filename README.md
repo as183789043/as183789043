@@ -6,7 +6,8 @@
 <img align="center"  src="https://github.com/as183789043/as183789043/assets/56618553/03cd4ac2-773e-4343-a6c8-3d4675ce7705"/>
 
 ## Tech  Stack
-- Front-end      : ![Static Badge](https://img.shields.io/badge/HTML5-white?style=flat&logo=html5) ![Static Badge](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3) ![Static Badge](https://img.shields.io/badge/JavaScript-orange?style=flat&logo=JavaScript)  ![Static Badge](https://img.shields.io/badge/axios-%235A29E4?style=flat&logo=Axios) ![Static Badge](https://img.shields.io/badge/React.js-blue?style=flat-flat&logo=React) 
+- Front-end      : ![Static Badge](https://img.shields.io/badge/HTML5-white?style=flat&logo=html5) ![Static Badge](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3) ![Static Badge](https://img.shields.io/badge/bootstrap-red?style=flat&logo=Bootstrap)
+ ![Static Badge](https://img.shields.io/badge/JavaScript-orange?style=flat&logo=JavaScript)  ![Static Badge](https://img.shields.io/badge/axios-%235A29E4?style=flat&logo=Axios) ![Static Badge](https://img.shields.io/badge/React.js-blue?style=flat-flat&logo=React) 
 
 - Back-end       : ![Static Badge](https://img.shields.io/badge/Python-lightblue?style=flat&logo=Python) ![Static Badge](https://img.shields.io/badge/Node.js-purple?style=flat&logo=Node.js) ![Static Badge](https://img.shields.io/badge/GO-lightbrown?style=flat&logo=GO&color=blue)
   
@@ -39,7 +40,7 @@
   
 - Visiualize : ![Static Badge](https://img.shields.io/badge/Grafana-%23oange?style=flat&logo=grafana&logoColor=grafana) ![Static Badge](https://img.shields.io/badge/Tableau-black?style=flat&logo=tableau&logoColor=tableau) ![Static Badge](https://img.shields.io/badge/PowerBI-white?style=flat&logo=powerbi&logoColor=powerbi) ![Static Badge](https://img.shields.io/badge/Qlik-%23009848?style=flat&logo=qlik&logoColor=qlik) ![Static Badge](https://img.shields.io/badge/Elastic-elasticsearch?style=flat&logo=elastic&logoColor=elastic) ![Static Badge](https://img.shields.io/badge/logstash-%23005571?style=flat&logo=logstash&logoColor=logstash) ![Static Badge](https://img.shields.io/badge/kibana-%23005571?style=flat&logo=kibana&logoColor=kibana) ![Static Badge](https://img.shields.io/badge/Splunk-%23000000?style=flat&logo=splunk&logoColor=splunk) ![Static Badge](https://img.shields.io/badge/DataStudio-darkblue?style=flat&logo=googledatastudio&logoColor=googledatastudio)
 
-- tools : ![Static Badge](https://img.shields.io/badge/Veeam-darkgreen?style=flat&logo=veeam&logoColor=veeam)  ![Static Badge](https://img.shields.io/badge/Nginx-%23009639?style=flat&logo=Nginx) ![Static Badge](https://img.shields.io/badge/hexo-%23whitegreen?style=flat&logo=Hexo) ![Static Badge](https://img.shields.io/badge/Hugo-%23pink?style=flat&logo=hugo)  ![Static Badge](https://img.shields.io/badge/Uptimekuma-black?style=flat&logo=Uptime-kuma) ![Static Badge](https://img.shields.io/badge/Synology-gray?style=flat&logo=synology)
+- Tools : ![Static Badge](https://img.shields.io/badge/Veeam-darkgreen?style=flat&logo=veeam&logoColor=veeam)  ![Static Badge](https://img.shields.io/badge/Nginx-%23009639?style=flat&logo=Nginx) ![Static Badge](https://img.shields.io/badge/hexo-%23whitegreen?style=flat&logo=Hexo) ![Static Badge](https://img.shields.io/badge/Hugo-%23pink?style=flat&logo=hugo)  ![Static Badge](https://img.shields.io/badge/Uptimekuma-black?style=flat&logo=Uptime-kuma) ![Static Badge](https://img.shields.io/badge/Synology-gray?style=flat&logo=synology)
 
 
 

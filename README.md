@@ -17,7 +17,7 @@
 
 
   
-- Database       : ![Static Badge](https://img.shields.io/badge/Prometheus-lightred?style=flat&logo=Prometheus) ![Static Badge](https://img.shields.io/badge/InfluxDB-darkblue?style=flat&logo=InfluxDB) ![Static Badge](https://img.shields.io/badge/MongoDB-darkgreen?style=flat&logo=MongoDB) ![Static Badge](https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL) ![Static Badge](https://img.shields.io/badge/Redis-Red?style=flat&logo=Redis) ![Static Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-brown?style=flat&logo=Microsoft%20SQL%20Server) ![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?style=flat&logo=sqlite&logoColor=sqlite) ![Static Badge](https://img.shields.io/badge/PostgreaaSQL-white?style=flat&logo=postgresql)
+- Database       : ![Static Badge](https://img.shields.io/badge/Prometheus-lightred?style=flat&logo=Prometheus) ![Static Badge](https://img.shields.io/badge/InfluxDB-darkblue?style=flat&logo=InfluxDB) ![Static Badge](https://img.shields.io/badge/MongoDB-darkgreen?style=flat&logo=MongoDB) ![Static Badge](https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL) ![Static Badge](https://img.shields.io/badge/Redis-Red?style=flat&logo=Redis) ![Static Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-brown?style=flat&logo=Microsoft%20SQL%20Server) ![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?style=flat&logo=sqlite&logoColor=sqlite) ![Static Badge](https://img.shields.io/badge/PostgreSQL-white?style=flat&logo=postgresql)
 
   
 - DeveOps        : ![Static Badge](https://img.shields.io/badge/Docker-dark?style=flat&logo=Docker) ![Static Badge](https://img.shields.io/badge/podman-%23892CA0?style=flat&logo=podman)

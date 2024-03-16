@@ -23,19 +23,23 @@
 - DeveOps        : ![Static Badge](https://img.shields.io/badge/Docker-dark?style=flat&logo=Docker) ![Static Badge](https://img.shields.io/badge/podman-%23892CA0?style=flat&logo=podman)
  ![Static Badge](https://img.shields.io/badge/Kubernetes-darkblue?style=flat&logo=Kubernetes) ![Static Badge](https://img.shields.io/badge/OCP-%23EE0000?style=flat&logo=redhatopenshift&logoColor=redhatopenshift)
  ![Static Badge](https://img.shields.io/badge/Jmeter-black?logo=apachejmeter) ![Static Badge](https://img.shields.io/badge/Jenkins-gray?style=flat&logo=Jenkins) ![Static Badge](https://img.shields.io/badge/Vagrant-darkgreen?style=flat&logo=Vagrant) ![Static Badge](https://img.shields.io/badge/Blazemeter-red?style=flat&logo=Blazemeter)  ![Static Badge](https://img.shields.io/badge/github-%23181717?style=flat&logo=github&logoColor=github)
-![Static Badge](https://img.shields.io/badge/gitlab-%23FC6D26?style=flat&logo=gitlab&logoColor=gitlab) ![Static Badge](https://img.shields.io/badge/Ansible-red?style=flat&logo=Ansible&logoColor=black)
+![Static Badge](https://img.shields.io/badge/gitlab-%23FC6D26?style=flat&logo=gitlab&logoColor=gitlab) ![Static Badge](https://img.shields.io/badge/Ansible-red?style=flat&logo=Ansible&logoColor=black) ![Static Badge](https://img.shields.io/badge/ArgoCD-white?style=flat&logo=argo&logoColor=%23EF7B4D)
+
 
 
 
 - Cloud          : ![Static Badge](https://img.shields.io/badge/AWS-%23232F3E?logo=amazonaws) ![Static Badge](https://img.shields.io/badge/Azure-%230078D4?logo=microsoftazure) ![Static Badge](https://img.shields.io/badge/GCP-Darkblue?logo=googlecloud) ![Static Badge](https://img.shields.io/badge/Wasabi-darkgreen?logo=wasabi)
   
-- System         : ![Static Badge](https://img.shields.io/badge/Windows-%230078D4?logo=windows) ![Static Badge](https://img.shields.io/badge/Centos-%23262577?logo=centos) ![Static Badge](https://img.shields.io/badge/RHEL9-%23EE0000?logo=redhat) ![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?logo=redhat&logoColor=Ubuntu) ![Static Badge](https://img.shields.io/badge/lubuntu-%230068C8?logo=Lubuntu) 
+- System         : ![Static Badge](https://img.shields.io/badge/Windows-%230078D4?logo=windows) ![Static Badge](https://img.shields.io/badge/Centos-%23262577?logo=centos) ![Static Badge](https://img.shields.io/badge/RHEL9-%23EE0000?logo=redhat) ![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?logo=redhat&logoColor=Ubuntu) ![Static Badge](https://img.shields.io/badge/lubuntu-%230068C8?logo=Lubuntu) ![Static Badge](https://img.shields.io/badge/ESXI-%23535353?style=flat&logo=vmware&logoColor=white)
+
+
 
   
 - IoT            : ![Static Badge](https://img.shields.io/badge/HomeAssistant-white?logo=homeassistant&logoColor=HomeAssistant) ![Static Badge](https://img.shields.io/badge/EspHome-black?logo=esphome&logoColor=esphome) ![Static Badge](https://img.shields.io/badge/Arduino-%2300878F?logo=arduino&logoColor=arduino)
   
-- AI/Big-Data    : ![Static Badge](https://img.shields.io/badge/Pytorch-ligtred?logo=Pytorch&logoColor=Pytorch) ![Static Badge](https://img.shields.io/badge/keras-%23D00000?logo=keras&logoColor=keras) ![Static Badge](https://img.shields.io/badge/Opencv-%235C3EE8?style=flat&logo=opencv&logoColor=opencv)
- ![Static Badge](https://img.shields.io/badge/scikitlearn-%23%23F7931E?logo=Scikit-learn&logoColor=scikitlearn) ![Static Badge](https://img.shields.io/badge/Dvc-darkblue?logo=dvc&logoColor=dvc) ![Static Badge](https://img.shields.io/badge/Airflow-%23017CEE?logo=apacheairflow&logoColor=apacheairflow) ![Static Badge](https://img.shields.io/badge/MLflow-white?logo=mlflow&logoColor=mlflow)
+- AI/Big-Data    : ![Static Badge](https://img.shields.io/badge/Pytorch-ligtred?logo=Pytorch&logoColor=Pytorch) ![Static Badge](https://img.shields.io/badge/keras-%23D00000?logo=keras&logoColor=keras) ![Static Badge](https://img.shields.io/badge/OpenCV-%235C3EE8?style=flat&logo=opencv&logoColor=opencv)
+ ![Static Badge](https://img.shields.io/badge/scikitlearn-%23%23F7931E?logo=Scikit-learn&logoColor=scikitlearn) ![Static Badge](https://img.shields.io/badge/DVC-darkblue?logo=dvc&logoColor=dvc) ![Static Badge](https://img.shields.io/badge/Airflow-%23017CEE?logo=apacheairflow&logoColor=apacheairflow) ![Static Badge](https://img.shields.io/badge/MLflow-white?logo=mlflow&logoColor=mlflow)![Static Badge](https://img.shields.io/badge/Minio-%23C72E49?style=flat&logo=minio&logoColor=white)
+
 
 - Firewall : ![Static Badge](https://img.shields.io/badge/Pfsense-%23212121?style=flat&logo=pfsense&logoColor=pfsense)
   

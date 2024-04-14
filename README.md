@@ -6,8 +6,10 @@
 <img align="center"  src="https://github.com/as183789043/as183789043/assets/56618553/03cd4ac2-773e-4343-a6c8-3d4675ce7705"/>
 
 ## Tech  Stack
-- Front-end      : ![Static Badge](https://img.shields.io/badge/HTML5-white?style=flat&logo=html5) ![Static Badge](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3) ![Static Badge](https://img.shields.io/badge/Bootstrap-red?style=flat&logo=Bootstrap)
- ![Static Badge](https://img.shields.io/badge/JavaScript-orange?style=flat&logo=JavaScript) ![Static Badge](https://img.shields.io/badge/Jquery-%230769AD?style=flat&logo=Jquery)
+- Front-end      : ![Static Badge](https://img.shields.io/badge/HTML5-white?style=flat&logo=html5) ![Static Badge](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3) ![Static Badge](https://img.shields.io/badge/Bootstrap5-red?style=flat&logo=Bootstrap)
+ ![Static Badge](https://img.shields.io/badge/JavaScript-orange?style=flat&logo=JavaScript) ![Static Badge](https://img.shields.io/badge/Socket.io-%23010101?style=flat&logo=socketdotio)
+![Static Badge](https://img.shields.io/badge/Chart.js-orange?style=flat&logo=chartdotjs&logoColor=black)
+ ![Static Badge](https://img.shields.io/badge/Jquery-%230769AD?style=flat&logo=Jquery)
  ![Static Badge](https://img.shields.io/badge/axios-%235A29E4?style=flat&logo=Axios) ![Static Badge](https://img.shields.io/badge/React.js-blue?style=flat-flat&logo=React) 
 
 - Back-end       : ![Static Badge](https://img.shields.io/badge/Python-lightblue?style=flat&logo=Python) ![Static Badge](https://img.shields.io/badge/Node.js-purple?style=flat&logo=Node.js) ![Static Badge](https://img.shields.io/badge/GO-lightbrown?style=flat&logo=GO&color=blue)

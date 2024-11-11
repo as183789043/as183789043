@@ -10,7 +10,7 @@
  ![Static Badge](https://img.shields.io/badge/JavaScript-orange?style=flat&logo=JavaScript) ![Static Badge](https://img.shields.io/badge/Socket.io-%23010101?style=flat&logo=socketdotio)
 ![Static Badge](https://img.shields.io/badge/Chart.js-orange?style=flat&logo=chartdotjs&logoColor=black)
  ![Static Badge](https://img.shields.io/badge/Jquery-%230769AD?style=flat&logo=Jquery)
- ![Static Badge](https://img.shields.io/badge/axios-%235A29E4?style=flat&logo=Axios) ![Static Badge](https://img.shields.io/badge/React.js-blue?style=flat-flat&logo=React) 
+ ![Static Badge](https://img.shields.io/badge/Axios-%235A29E4?style=flat&logo=Axios) ![Static Badge](https://img.shields.io/badge/React.js-blue?style=flat-flat&logo=React) 
 
 - Back-end       : ![Static Badge](https://img.shields.io/badge/Python-lightblue?style=flat&logo=Python) ![Static Badge](https://img.shields.io/badge/Node.js-purple?style=flat&logo=Node.js) ![Static Badge](https://img.shields.io/badge/GO-lightbrown?style=flat&logo=GO&color=blue)
   

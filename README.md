@@ -44,7 +44,8 @@
 - IoT            : ![Static Badge](https://img.shields.io/badge/HomeAssistant-white?logo=homeassistant&logoColor=HomeAssistant) ![Static Badge](https://img.shields.io/badge/EspHome-black?logo=esphome&logoColor=esphome) ![Static Badge](https://img.shields.io/badge/Arduino-%2300878F?logo=arduino&logoColor=arduino)
   
 - AI/Big-Data    : ![Static Badge](https://img.shields.io/badge/Pytorch-ligtred?logo=Pytorch&logoColor=Pytorch) ![Static Badge](https://img.shields.io/badge/keras-%23D00000?logo=keras&logoColor=keras) ![Static Badge](https://img.shields.io/badge/OpenCV-%235C3EE8?style=flat&logo=opencv&logoColor=opencv)
- ![Static Badge](https://img.shields.io/badge/Scikitlearn-%23%23F7931E?logo=Scikit-learn&logoColor=scikitlearn)  ![Static Badge](https://img.shields.io/badge/Airflow-%23017CEE?logo=apacheairflow&logoColor=apacheairflow) ![Static Badge](https://img.shields.io/badge/Minio-%23C72E49?style=flat&logo=minio&logoColor=white)![Static Badge](https://img.shields.io/badge/Octave-white?style=flat&logo=octave) ![Static Badge](https://img.shields.io/badge/Apache%20Spark-gray?logo=apachespark)
+ ![Static Badge](https://img.shields.io/badge/Scikitlearn-%23%23F7931E?logo=Scikit-learn&logoColor=scikitlearn)  ![Static Badge](https://img.shields.io/badge/Airflow-%23017CEE?logo=apacheairflow&logoColor=apacheairflow) ![Static Badge](https://img.shields.io/badge/Minio-%23C72E49?style=flat&logo=minio&logoColor=white)![Static Badge](https://img.shields.io/badge/Octave-white?style=flat&logo=octave) ![Static Badge](https://img.shields.io/badge/Apache%20Spark-gray?logo=apachespark) ![Static Badge](https://img.shields.io/badge/Snowflake-black?style=flat&logo=snowflake)
+
 
 
 - MLOps : ![Static Badge](https://img.shields.io/badge/DVC-darkblue?logo=dvc&logoColor=dvc) ![Static Badge](https://img.shields.io/badge/MLflow-white?logo=mlflow&logoColor=mlflow) ![Static Badge](https://img.shields.io/badge/BentoML-%23000000?logo=bentoml)
